@@ -1,0 +1,107 @@
+.title {
+    color: #02ccba;
+    width:1200px;
+    margin:0 auto;
+    font-size:50px;
+  }
+
+.contaner {
+  width:1170px;
+  margin:0 auto;
+}
+
+.topimage {
+  height:700px;
+  width:100%;
+}
+
+.topwrapper p{
+  width:1200px;
+  font-size:35px;
+  margin:0 auto;
+  padding-top:15px;
+}
+
+.topwrapper {
+  background-image:url(./image/books.jpg);
+  background-size:cover;
+  height:1000px;
+  margin:0 auto;
+}
+
+.topwrapper {
+  width:100%;
+  text-align:center;
+}
+
+.topwrapper span {
+  padding-top:700px;
+  font-size:35px;
+  display:inline-block;
+}
+
+.menu_wrapper h2 {
+  text-align:center;
+  padding:25px 0px;
+  color:chartreuse;
+}
+
+.menu img {
+  display:inline;
+  width:200px;
+  height:175px;
+  
+}
+
+.manu a {
+  display:inline-block;
+}
+
+.menu {
+  float:left;
+  width:25%;
+  text-align:center;
+}
+
+.novel {
+  background-color:blue;
+  color:white;
+}
+
+.practical_books {
+  background-color:black;
+  color:white;
+}
+
+.picture_book {
+  background-color:brown;
+  color:white;
+}
+
+.childcare_books {
+  background-color:green;
+  color:white;
+}
+
+.btn {
+  font-weight: 20px;
+  color:white;
+  text-decoration:none;
+  padding:5px 10px;
+}
+
+.guest_recommend {
+  text-align: center;
+  margin-top:100px;
+}
+
+.recommend {
+  color:orange;
+  display: inline-block;
+  padding-top:40px;
+}
+
+input,textarea {
+  border:1px solid black;
+  font-size:20px ;
+}
